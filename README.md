@@ -1,4 +1,4 @@
-# CRED Landing Page Clone (Frontend Assignment)
+# CRED website clone (Frontend Assignment)
 
 This project is a **frontend replication** of the CRED landing page, built as part of a hiring assignment. The goal was to recreate the **UI, layout, and interactions** as closely as possible using modern frontend tools.
 
@@ -49,7 +49,7 @@ This project is built **for educational and evaluation purposes only**.
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ```bash
 # Clone the repository
